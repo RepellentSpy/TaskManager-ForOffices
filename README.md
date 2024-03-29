@@ -1,2 +1,2 @@
-# TaskManager-ForOffices
-A simple Task Manager script that provides the most used features of Task Manager without needing administrator permissions
+# Task Manager for Offices
+I made this silly little batch script a few years ago when I used to work in an office and the administrator blocked our access to task manager. You can imagine that made our lives complicated whenever any program stopped responding or explorer needed restarting. Which is why back then I created this script that provides the most important features of task manager without needing administrator priviliges. Use this as you wish.
